@@ -2,7 +2,7 @@
  "name": "LucaLin233 Task Gallery",
  "description": "个人收集的Task脚本,京东部分请配合LXK使用",
  "task": [
-    "15 9, * * * https://raw.githubusercontent.com/age174/-/main/vsh.js, tag=V生活, img-url=https://ae01.alicdn.com/kf/Uf0da879c7acd4c7bad91f0e5a97667e1O.jpg, enabled=true",",
+    "15 9, * * * https://raw.githubusercontent.com/age174/-/main/vsh.js, tag=V生活, img-url=https://ae01.alicdn.com/kf/Uf0da879c7acd4c7bad91f0e5a97667e1O.jpg, enabled=true",
     "6 6 0-23 * * * https://raw.githubusercontent.com/ziye888/JavaScript/main/Task/jdtq.js, tag=简单天气, enabled=true",
     "7 */30 * * * * https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/bububao.js, tag=步步宝, img-url=https://cdn.jsdelivr.net/gh/ziye888/JavaScript@master/Task/bububao.png, enabled=true",
     "16 0 7,10,23 * * * https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/flw.js, tag=返利网, img-url=https://cdn.jsdelivr.net/gh/ziye888/JavaScript@master/Task/flw.png, enabled=true",
