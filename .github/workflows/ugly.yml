@@ -11,7 +11,7 @@ on:
   watch:
     types: started
   repository_dispatch:
-    types: sync-age174--（改）
+    types: sync-age174--
 jobs:
   repo-sync:
     env:
@@ -23,11 +23,11 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: sync age174--（改）
+      - name: sync age174--
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
-          source_repo: "https://github.com/age174/-.git（改）"
+          source_repo: "https://github.com/age174/-.git"
           source_branch: "main"
           destination_branch: "feizao"
           github_token: ${{ secrets.PAT }}
