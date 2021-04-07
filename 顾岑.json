@@ -59,4 +59,5 @@
 1 1 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_redPacket.js, tag=京东全民开红包, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_redPacket.png, enabled=true
 10 7 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_ms.js, tag=京东秒秒币, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_ms.png, enabled=true
 0 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_jdzz.png, enabled=true
-}
+]
+  }
